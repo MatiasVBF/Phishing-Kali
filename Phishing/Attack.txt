@@ -1,0 +1,13 @@
+Acesso Root: Primeiro, você precisa ter acesso root no Kali Linux. 
+
+Iniciar o SEToolkit: O Social-Engineer Toolkit (SEToolkit) é uma das ferramentas mais populares para phishing. 
+
+Selecionar o Tipo de Ataque: No menu do SEToolkit, escolha “1” para “Social-Engineering Attacks”.
+
+Selecionar o Vetor de Ataque: Escolha “2” para “Web Site Attack Vectors”.
+Método de Ataque: Selecione “3” para “Credential Harvester Attack Method”.
+Clonar um Site: Escolha “2” para “Site Cloner” e insira a URL do site que você deseja clonar.
+Configurar o Endereço IP: Obtenha o endereço IP da sua máquina.
+
+Use este endereço IP quando solicitado pelo SEToolkit.
+Iniciar o Ataque: O SEToolkit irá clonar o site e iniciar o servidor. Quando a vítima acessar o site clonado e inserir suas credenciais, essas informações serão capturadas e armazenadas.
